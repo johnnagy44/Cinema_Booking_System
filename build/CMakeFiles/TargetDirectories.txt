@@ -1,0 +1,3 @@
+B:/SIEMENS Software Diploma/Day 13/Software Design Workshop/build/CMakeFiles/appbinary.dir
+B:/SIEMENS Software Diploma/Day 13/Software Design Workshop/build/CMakeFiles/edit_cache.dir
+B:/SIEMENS Software Diploma/Day 13/Software Design Workshop/build/CMakeFiles/rebuild_cache.dir
