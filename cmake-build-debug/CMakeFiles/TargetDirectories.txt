@@ -1,0 +1,3 @@
+D:/3b3znew/github/Cinema_Booking_System/cmake-build-debug/CMakeFiles/appbinary.dir
+D:/3b3znew/github/Cinema_Booking_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3b3znew/github/Cinema_Booking_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
